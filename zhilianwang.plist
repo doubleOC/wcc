@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.huagu.YouCheBang</string>
+				<string>com.huagu.zhilianwang</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YouCheBang</string>
+				<string>zhilianwang</string>
 			</dict>
 		</dict>
 	</array>
