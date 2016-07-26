@@ -13,7 +13,22 @@
 					<key>url</key>
 					<string>http://203.88.167.184/download/AirPurifier.ipa</string>
 				</dict>
-				
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://203.88.167.184/download/logo.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://203.88.167.184/download/logo.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
