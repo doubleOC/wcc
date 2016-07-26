@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.99.57.175:8888/muttone/logo.png</string>
+					<string>http://10.99.57.175:8888/muttone/512.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.99.57.175:8888/muttone/logo.png</string>
+					<string>http://10.99.57.175:8888/muttone/57.png</string>
 				</dict>
 
 			</array>
